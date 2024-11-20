@@ -42,44 +42,44 @@
 
 <br/>
 
-## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+## Course 2 : [Advanced Learning Algorithms](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202)
 
-- [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week1)
+- [Week 1]()
 
-    - [Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs)
-      - [Neurons and Layers](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
-      - [Coffee Roasting](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
-      - [Coffee Roasting Using Numpy](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1)
-      - [Neural Networks for Binary Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1/C2_W1_Assignment.ipynb)
+    - [Labs]()
+      - [Neurons and Layers]()
+      - [Coffee Roasting]()
+      - [Coffee Roasting Using Numpy]()
+    - [Programming Assessment]()
+      - [Neural Networks for Binary Classification]()
   
 
   <br/>
 
-- [Week 2](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2)
+- [Week 2]()
 
-    - [Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs)
-        - [RElu](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Relu.ipynb)
-        - [Softmax](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_SoftMax.ipynb)
-        - [Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Multiclass_TF.ipynb)
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
-      - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
+    - [Labs]()
+        - [RElu]()
+        - [Softmax]()
+        - [Multiclass Classification]()
+    - [Programming Assessment]()
+      - [Neural Networks For Handwritten Digit Recognition - Multiclass]()
     
 
 <br/>
 
-- [Week 3](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week3)
+- [Week 3]()
 
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1)
-        - [Advice for Applied Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1/C2_W3_Assignment.ipynb)
+    - [Programming Assessment]()
+        - [Advice for Applied Machine Learning]()
 
 <br/>
 
 
-- [Week 4](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4)
+- [Week 4]()
 
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
-        - [Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
+    - [Programming Assessment]()
+        - [Decision Trees]()
 
 #### [Certificate of Completion](https://coursera.org/share/b1d99eceac61027b89670f8c2588181c)        
 
