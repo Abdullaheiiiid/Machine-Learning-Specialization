@@ -39,7 +39,7 @@
     - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1)
       - [Logistic Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+#### [Certificate Of Completion](https://coursera.org/share/c535e846fabfd19b88d7454f592e32df)
 
 <br/>
 
@@ -82,7 +82,7 @@
     - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
         - [Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
-#### [Certificate of Completion](https://coursera.org/share/c9a7766b0c6eab27db2e955376d29bf7)        
+#### [Certificate of Completion](https://coursera.org/share/b1d99eceac61027b89670f8c2588181c)        
 
 <br/>
 
@@ -110,7 +110,7 @@
 
     - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3/C3W3A1)
         - [Deep Q-Learning - Lunar Lander](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
-#### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
+#### [Certificate of Completion](https://coursera.org/share/6f2edd8e2b5a6d550d6befbeee903840)
 
 
-### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
+### [Specialization Certificate](https://coursera.org/share/6c29e4ab3182523b43fabe19dccfbaca)
