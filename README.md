@@ -1,26 +1,25 @@
 
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201)
 
-- [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
+- [Week 1](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%201)
 
-  - [Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs)
-    - [Model Representation](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb)
-    - [Cost Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
-    - [Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab05_Gradient_Descent_Soln.ipynb)
+  - [Labs]()
+    - [Model Representation](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%201/Lab%201%20(Model%20Representation))
+    - [Cost Function](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%201/Lab%202%20(Cost%20Function))
+    - [Gradient Descent](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%201/Lab%203%20(Gradient%20Descent))
 
 <br/>
 
-- [Week 2](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2) 
+- [Week 2](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202) 
 
-    - [Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs)
-      - [Numpy Vectorization](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
-      - [Multi Variate Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
-      - [Feature Scaling](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb)
-      - [Feature Engineering](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
-      - [Sklearn Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
-      - [Sklearn Normal Method](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/C1W2A1)
-      - [Linear Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/C1W2A1/C1_W2_Linear_Regression.ipynb)
+    - [Labs]()
+      - [Numpy Vectorization](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%201%20(Numpy%20Vectorization))
+      - [Multi Variate Regression](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%202%20(Multi%20Variate%20Regression))
+      - [Feature Scaling](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%203%20(Feature%20Scaling))
+      - [Feature Engineering](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%204%20(Feature%20Engineering))
+      - [Sklearn Gradient Descent](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%205%20(Sklearn%20Gradient%20Descent))
+    - [Programming Assessment]()
+      - [Linear Regression](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Assessment%201%20(Linear%20Regression))
 
 <br/>
 
