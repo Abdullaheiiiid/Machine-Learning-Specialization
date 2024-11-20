@@ -44,42 +44,42 @@
 
 ## Course 2 : [Advanced Learning Algorithms](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202)
 
-- [Week 1]()
+- [Week 1](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%201)
 
     - [Labs]()
-      - [Neurons and Layers]()
-      - [Coffee Roasting]()
-      - [Coffee Roasting Using Numpy]()
+      - [Neurons and Layers](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%201/Lab%201%20(Neurons%20and%20Layers))
+      - [Coffee Roasting](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%201/Lab%202%20(Coffee%20Roasting))
+      - [Coffee Roasting Using Numpy](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%201/Lab%203%20(Coffee%20Roasting%20Using%20Numpy))
     - [Programming Assessment]()
-      - [Neural Networks for Binary Classification]()
+      - [Neural Networks for Binary Classification](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%201/Assessment%201%20(Neural%20Networks%20for%20Binary%20Classification))
   
 
   <br/>
 
-- [Week 2]()
+- [Week 2](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202)
 
     - [Labs]()
-        - [RElu]()
-        - [Softmax]()
-        - [Multiclass Classification]()
+        - [ReLU](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Lab%201%20(ReLU))
+        - [Softmax](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Lab%202%20(Softmax))
+        - [Multiclass Classification](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Lab%203%20(Multiclass%20Classification))
     - [Programming Assessment]()
-      - [Neural Networks For Handwritten Digit Recognition - Multiclass]()
+      - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Assessment%201%20(Neural%20Networks%20For%20Handwritten%20Digit%20Recognition%20-%20Multiclass))
     
 
 <br/>
 
-- [Week 3]()
+- [Week 3](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%203/Assessment%201%20(Advice%20for%20Applied%20Machine%20Learning))
 
     - [Programming Assessment]()
-        - [Advice for Applied Machine Learning]()
+        - [Advice for Applied Machine Learning](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%203/Assessment%201%20(Advice%20for%20Applied%20Machine%20Learning))
 
 <br/>
 
 
-- [Week 4]()
+- [Week 4](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%204/Assessment%201%20(Decision%20Trees))
 
     - [Programming Assessment]()
-        - [Decision Trees]()
+        - [Decision Trees](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%204/Assessment%201%20(Decision%20Trees))
 
 #### [Certificate of Completion](https://coursera.org/share/b1d99eceac61027b89670f8c2588181c)        
 
