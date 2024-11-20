@@ -85,30 +85,31 @@
 
 <br/>
 
-## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203)
 
 <br/>
 
-- [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1)
+- [Week 1](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%201)
 
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1/C3W1A)
-        - [K means](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1/C3W1A/C3W1A1/C3_W1_KMeans_Assignment.ipynb)
-        - [Anomaly Detection](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1/C3W1A/C3W1A2/C3_W1_Anomaly_Detection.ipynb)
-
-<br/>
-
-- [Week 2](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week2)
-
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week2/C3W2)
-        - [Collaborative Filtering RecSys](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week2/C3W2/C3W2A1/C3_W2_Collaborative_RecSys_Assignment.ipynb)
-        - [RecSys using Neural Networks](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week2/C3W2/C3W2A2/C3_W2_RecSysNN_Assignment.ipynb)
+    - [Programming Assessment]()
+        - [K means](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%201/Assessment%201%20(K-Means))
+        - [Anomaly Detection](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%201/Assessment%202%20(Anomaly%20Detection))
 
 <br/>
 
-- [Week 3](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3)
+- [Week 2](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202)
 
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3/C3W3A1)
-        - [Deep Q-Learning - Lunar Lander](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
+    - [Programming Assessment]()
+        - [Collaborative Filtering RecSys](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202/Assessment%201%20(Collaborative%20Filtering%20RecSys))
+        - [RecSys using Neural Networks](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202/Assessment%202%20(RecSys%20using%20Neural%20Networks))
+
+<br/>
+
+- [Week 3](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%203/Assessment%201%20(Deep%20Q-Learning%20-%20Lunar%20Lander))
+
+    - [Programming Assessment]()
+        - [Deep Q-Learning - Lunar Lander](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%203/Assessment%201%20(Deep%20Q-Learning%20-%20Lunar%20Lander))
+
 #### [Certificate of Completion](https://coursera.org/share/6f2edd8e2b5a6d550d6befbeee903840)
 
 
