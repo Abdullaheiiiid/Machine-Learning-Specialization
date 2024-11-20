@@ -17,7 +17,7 @@
       - [Multi Variate Regression](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%202%20(Multi%20Variate%20Regression))
       - [Feature Scaling](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%203%20(Feature%20Scaling))
       - [Feature Engineering](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%204%20(Feature%20Engineering))
-      - [Sklearn Gradient Descent](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%205%20(Sklearn%20Gradient%20Descent))
+      - [SK-Learn Gradient Descent](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Lab%205%20(Sklearn%20Gradient%20Descent))
     - [Programming Assessment]()
       - [Linear Regression](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%202/Assessment%201%20(Linear%20Regression))
 
@@ -60,7 +60,7 @@
 
     - [Labs]()
         - [ReLU](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Lab%201%20(ReLU))
-        - [Softmax](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Lab%202%20(Softmax))
+        - [SoftMax](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Lab%202%20(Softmax))
         - [Multiclass Classification](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Lab%203%20(Multiclass%20Classification))
     - [Programming Assessment]()
       - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%202/Week%202/Assessment%201%20(Neural%20Networks%20For%20Handwritten%20Digit%20Recognition%20-%20Multiclass))
@@ -91,17 +91,17 @@
 
 - [Week 1](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%201)
 
-    - [Programming Assessment]()
-        - [K means](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%201/Assessment%201%20(K-Means))
+    - [Programming Assessments]()
+        - [K-Means](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%201/Assessment%201%20(K-Means))
         - [Anomaly Detection](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%201/Assessment%202%20(Anomaly%20Detection))
 
 <br/>
 
 - [Week 2](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202)
 
-    - [Programming Assessment]()
-        - [Collaborative Filtering RecSys](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202/Assessment%201%20(Collaborative%20Filtering%20RecSys))
-        - [RecSys using Neural Networks](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202/Assessment%202%20(RecSys%20using%20Neural%20Networks))
+    - [Programming Assessments]()
+        - [Collaborative Filtering Recommendation Systems](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202/Assessment%201%20(Collaborative%20Filtering%20RecSys))
+        - [Recommendation Systems using Neural Networks](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%203/Week%202/Assessment%202%20(RecSys%20using%20Neural%20Networks))
 
 <br/>
 
