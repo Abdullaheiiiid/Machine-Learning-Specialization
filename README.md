@@ -23,20 +23,20 @@
 
 <br/>
 
-- [Week 3](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
+- [Week 3](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203)
 
-    - [Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs)
-        - [Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab01_Classification_Soln.ipynb)
-        - [Sigmoid Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
-        - [Decision Boundary](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
-        - [Logistic Loss](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab04_LogisticLoss_Soln.ipynb)
-        - [Cost Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab05_Cost_Function_Soln.ipynb)
-        - [Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
-        - [Scikit Learn - Logistic Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
-        - [Overfitting](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab08_Overfitting_Soln.ipynb)
-        - [Regularization](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab09_Regularization_Soln.ipynb)
-    - [Programming Assessment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1)
-      - [Logistic Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
+    - [Labs]()
+        - [Classification](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%201%20(Classification))
+        - [Sigmoid Function](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%202%20(Sigmoid%20Function))
+        - [Decision Boundary](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%203%20(Decision%20Boundary))
+        - [Logistic Loss](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%204%20(Logistic%20Loss))
+        - [Cost Function](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%205%20(Cost%20Function))
+        - [Gradient Descent](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%206%20(Gradient%20Descent))
+        - [Scikit Learn - Logistic Regression](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%207%20(Scikit%20Learn%20-%20Logistic%20Regression))
+        - [Overfitting](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%208%20(Overfitting))
+        - [Regularization](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Lab%209%20(Regularization))
+    - [Programming Assessment]()
+      - [Logistic Regression](https://github.com/Abdullaheiiiid/Machine-Learning-Specialization/tree/master/Labs%20and%20assignments/Course%201/Week%203/Assessment%201%20(Logistic%20Regression))
 
 #### [Certificate Of Completion](https://coursera.org/share/c535e846fabfd19b88d7454f592e32df)
 
